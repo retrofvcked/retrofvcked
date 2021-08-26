@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @retrofvcked
+- 👀 I’m interested in code
+- 🌱 I’m currently learning Python
